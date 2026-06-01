@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-01T15:24:41 IST" name="Default suite" finished-at="2026-06-01T15:25:33 IST" duration-ms="52185">
+    <groups>
+    </groups>
+    <test started-at="2026-06-01T15:24:41 IST" name="Default test" finished-at="2026-06-01T15:25:33 IST" duration-ms="52185">
+      <class name="Testing_practice.Tira_test">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:24:41 IST" name="beforeTest" finished-at="2026-06-01T15:25:01 IST" duration-ms="19976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="multiple_search()[pri:1, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:25:01 IST" name="multiple_search" finished-at="2026-06-01T15:25:07 IST" duration-ms="6404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiple_search -->
+        <test-method signature="product_details()[pri:2, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:25:07 IST" name="product_details" finished-at="2026-06-01T15:25:16 IST" duration-ms="8880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_details -->
+        <test-method signature="add_to_cart()[pri:3, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:25:16 IST" name="add_to_cart" finished-at="2026-06-01T15:25:24 IST" duration-ms="7647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_to_cart -->
+        <test-method signature="login()[pri:4, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:25:24 IST" name="login" finished-at="2026-06-01T15:25:32 IST" duration-ms="8503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Testing_practice.Tira_test@51399530]" started-at="2026-06-01T15:25:32 IST" name="afterTest" finished-at="2026-06-01T15:25:33 IST" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Testing_practice.Tira_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
